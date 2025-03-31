@@ -15,10 +15,6 @@ This R script simulates and evaluates candidates applying for a Junior Data Anal
 - Visualizes the top candidates using a horizontal bar chart
 
 ## 🚀 How to Use
-
-
-# TechNova Recruitment Planning Activity - R Script
-
 # Load necessary packages
 library(dplyr)
 library(ggplot2)
