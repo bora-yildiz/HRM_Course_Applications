@@ -90,7 +90,7 @@ ggplot(long_term_data, aes(x = Predicted, y = CareerAdvancement)) +
 ---
 
 ## 📘 License
-MIT License
+Prof.Dr. Bora Yildiz License
 
 ---
 
